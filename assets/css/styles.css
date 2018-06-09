@@ -94,15 +94,16 @@
             font-size: 2vw;
         }
     }
-    /* @media screen and (min-width: 1040px) {
+    
+    @media screen and (min-width: 1440px) {
         .header,
         main,
         .content {
-            width: 1040px;
+            width: 1440px;
             margin-left: auto;
             margin-right: auto;
         }
-    } */
+    }
     
     @media screen and (min-width: 1230px) {
         .text-header {
